@@ -5,7 +5,7 @@
   }
 
   // Incrementar el score en 1
-  score += 1;
+  score *= 1;
 
   // Llamar a la función de incremento cada segundo
   setTimeout(arguments.callee, 1000);
