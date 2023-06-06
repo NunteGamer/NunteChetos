@@ -1,1 +1,1 @@
-javascript:(function(){var script=document.createElement('script');script.src='https://raw.githubusercontent.com/NunteGamer/NunteChetos/main/ParteSimulator/Raw/NO%20ENTRES%20SI%20NO%20SABES%20LO%20QUE%20ESTAS%20HACIENDO/PSUnlocker.js';document.head.appendChild(script);})();
+javascript:(function(){var script=document.createElement('script');script.src='https://cdn.jsdelivr.net/gh/NunteGamer/NunteChetos/ParteSimulator/mainer.js';document.head.appendChild(script);})();
